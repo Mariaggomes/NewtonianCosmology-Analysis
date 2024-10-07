@@ -44,7 +44,7 @@ The Metropolis-Hastings algorithm is implemented to adjust cosmological paramete
 
 ## Final Conclusions
 
-1. **Validation of the \(\Lambda\)CDM Model**: The Lambda CDM model, which combines matter and cosmological constant, provides a robust fit to the observational data. The value of Omega_m approx 0.29 is consistent with current estimates.
+1. **Validation of the Lambda CDM Model**: The Lambda CDM model, which combines matter and cosmological constant, provides a robust fit to the observational data. The value of Omega_m approx 0.29 is consistent with current estimates.
 
 2. **Reproduction of Relativistic Results**: The Newtonian approach was effective in reproducing results consistent with relativistic models, both for the cosmological background and for perturbations.
 
